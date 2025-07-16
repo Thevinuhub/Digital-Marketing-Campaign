@@ -13,3 +13,4 @@ Cost per Click (CPC)
 Quality Score
 Impression Share
 Return on Investment (ROI)
+<img width="1405" height="802" alt="image" src="https://github.com/user-attachments/assets/e3a869a4-ac48-4ad6-b327-5ff616d867cd" />
